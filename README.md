@@ -6,10 +6,11 @@ TOY_HUDは、本家HUD SIGHTが手に入らないけどHUDサイト体験をし�
 
 ---
 
-## 概要
-
-
----
-
 ## ファイル構成
+
+・TOY_HUD_software.ino
+  TOY HUD内のSeeeduino XIAO MG24 Sense に書き込むArduinoスケッチです。
+  Seeeduino社の入門ガイドwikiを参考に書き込んで使用ください。→ https://wiki.seeedstudio.com/ja/xiao_mg24_getting_started/
+  
+・
 
