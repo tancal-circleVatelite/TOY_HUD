@@ -10,15 +10,11 @@ TOY_HUDは、本家HUD SIGHTが手に入らないけどHUDサイト体験をし�
 
 * TOY_HUD_software.ino
 
-    頒布時に書き込まれているArduinoスケッチです。
-    TOY HUDに内蔵しているマイコンボードはのSeeeduino XIAO MG24 Senseです。
-    Seeeduino社の入門ガイドwikiを参考に書き込んで使用ください。
-    参考：https://wiki.seeedstudio.com/ja/xiao_mg24_getting_started/
+    頒布時に書き込まれているArduinoスケッチです。<br>TOY HUDに内蔵しているマイコンボードはのSeeeduino XIAO MG24 Senseです。<br>Seeeduino社の入門ガイドwikiを参考に書き込んで使用ください。<br>参考：https://wiki.seeedstudio.com/ja/xiao_mg24_getting_started/
 
   
 * TOU_HUD_側面パネル.3mf
 
-    TOY HUDの側面パネルの3Dプリントデータです。BambuLab製プリンター向けのファイルです。
-    0.2mmノズルで出力する必要があります。
+    TOY HUDの側面パネルの3Dプリントデータです。<br>BambuLab製3Dプリンター向けのファイルです。<br>0.2mmノズルで出力する必要があります。
 
 
